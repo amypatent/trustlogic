@@ -5,7 +5,7 @@ Privacy-preserving, dual-token enforcement layer for revocable and governed digi
 
 [![Whitepaper](https://img.shields.io/badge/Whitepaper-v1.0-blue?style=for-the-badge)](TrustLogic-Whitepaper-v1.0.pdf)
 [![Website](https://img.shields.io/badge/Website-trustlogic.global-brightgreen?style=for-the-badge)](https://trustlogic.global)
-[![X (Twitter)](https://img.shields.io/badge/Follow-%40TrustLogic_global-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TrustLogic_global)
+[![X (Twitter)](https://img.shields.io/badge/Follow-%40TrustLogicRWA-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TrustLogicRWA)
 
 ## Overview
 
