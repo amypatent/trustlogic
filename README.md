@@ -65,8 +65,3 @@ Released under the Creative Commons Attribution–NonCommercial–NoDerivatives 
 
 This license does not grant any rights under any TrustLogic patents.  
 Patent licensing inquiries: legal@trustlogic.global
-
-
-
-This license does not grant any rights under any TrustLogic patents.  
-Patent licensing inquiries: legal@trustlogic.global
