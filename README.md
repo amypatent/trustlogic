@@ -5,4 +5,4 @@ TrustLogic is an enforceability layer for digital assets and digital value. Usin
 Released under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 This license does not grant any rights under any TrustLogic patents.  
-Patent licensing inquiries: legal@trustlogic.world
+Patent licensing inquiries: legal@trustlogic.global
